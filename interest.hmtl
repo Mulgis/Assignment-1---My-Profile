@@ -9,4 +9,40 @@
 <link href="style.css" rel="stylesheet">
 </head>
 
+<body>
+  <div class="content">
+  <header>
+    <h1>Interest in IT</h1>
+  </header>
+
+  <main>
+    <h2>What is your interest in IT?</h2>
+
+    <p>I’ve always had some affinity with computers and other devices, and I want to develop that further.
+When it comes to technology there are so many possibilities, there’s just about nothing we cannot do. It’s the great connector of all things, allowing us to utilize/nurture/develop. a magnificent, albeit double edged sword with which we interface with the natural world and with others.
+So yeah, tech is cool, and I want to explore its endless potential.
+</p>
+
+<h2>When did your interest in IT start?</h2>
+<p>When I was 6 years old, my dad brought home a brand-new PlayStation and it was the most amazing thing I’d ever seen. Understandably, I was instantly hooked on video games, and I guess it’s obvious that’s where my interest began. I remember wanting to build robots for some reason and would constantly pester the old man about it, as he was always working in the shed, and I just assumed he could build anything.</p>
+
+<h2>Was there a particular event or person that sparked your interest? Outline your IT experience (if any).</h2>
+<p>We got a desktop PC when I was 8, which wasn’t getting any signal to the monitor.
+Dad spent an entire day flicking through the manual, trying to figure out why it wasn’t working – until I walked in and pressed the button on front of the tower. I remember feeling pretty savvy in that moment. Growing up, I mostly just used IT for entertainment but also found some satisfaction in finding a fix whenever things went wrong.
+I have no real experience, I’ve offered troubleshooting for a lot of people, mainly older folk with computer troubles, but I’ve never been officially employed in the industry.
+</p>
+
+<h2>Why did you choose to come to RMIT?</h2>
+<p>Ultimately, I chose to come to RMIT because it was recommended by a consultant. I’d never done Uni before, but knew I wanted to do something in IT and IIT will help me get an idea of Uni life while working towards a degree.</p>
+
+<h2>What do you expect to learn during your studies?</h2>
+<p>There’s a lot... things I don’t really comprehend, such as machine learning, cyber security, or the Internet of Things. Or things I’ve dabbled in but need a refresher on, like using HTML/CSS.</p>
+
+  </main>
+
+  <footer>
+
+  </footer>
+</div> <!-- / content -->
+</body>
 </html>
