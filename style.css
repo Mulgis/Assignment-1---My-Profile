@@ -1,3 +1,73 @@
-body{
+html, body {
   margin: 0;
+  background: #002329;
+  color: #1BEEEE;
+}
+
+.info {
+  width: 90%;
+  max-width: 800px;
+  margin: 30px auto 0;
+  background:#21836F;
+}
+.content {
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto 30px;
+  padding: 15px 0 0 0;
+  background: #04464D;
+}
+
+#job img {
+  width: 600px;
+  border: solid 2px;
+  margin: 10px 30px 20px;
+}
+
+#headshot img {
+  width: 150px;
+  height: 172px;
+  border: solid 2px;
+  margin: 0 30px;
+}
+
+#intp {
+  margin: 0 0 0 500px;
+}
+
+header {
+  border-bottom: solid 2px;
+  margin: 0 30px;
+  padding: 20px 30px 0;
+}
+
+p {
+  color: #5EE8C8;
+  padding: 0 30px;
+}
+
+h2 {
+  margin: 0 30px;
+}
+
+h3 {
+  margin: 0 30px;
+}
+
+footer{
+  margin: 30px;
+  padding: 30px;
+  border-top: solid 2px;
+}
+
+a{
+  color: chartreuse;
+}
+
+.columns {
+  display: flex;
+}
+
+.column {
+  padding: 0 15px;
 }
